@@ -359,7 +359,7 @@ section:target{
 .edu-box{
     position:relative;
     width:42%;
-    min-height:150px;
+    min-height:200px;
     /* border:2px solid black; */
     margin:5px;
     margin-top:10px;
@@ -377,7 +377,7 @@ section:target{
     height: 0.5rem;
     width: 0.5rem;
     right:-19%;
-    top:28%;
+    top:22%;
     background-color: green;
     z-index: 1;
 }
@@ -389,7 +389,7 @@ section:target{
     height: 0.5rem;
     width: 0.5rem;
     right:107%;
-    top:29%;
+    top:23%;
     background-color: green;
     z-index: 1;
 } 
@@ -400,7 +400,7 @@ section:target{
     width:2px;
     background-color: red;
     left:50%;
-    top:16%;
+    top:13%;
     
 }
 
@@ -494,7 +494,7 @@ section:target{
     width:80%;
     display:flex;
     flex-wrap: wrap;
-    justify-content: space-around;
+    justify-content: space-between;
     background-image: linear-gradient(orange, lightgray);
     margin:10px;
 }
